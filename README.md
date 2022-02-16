@@ -1,7 +1,7 @@
-# VueMonsterApp
-Vue Monster App
+# Hellspawn Hunter
 
-Fight Hellspawns...
+Fight Hellspawns... in this Vue Monster App
 
 https://vue-hellspawn-app.netlify.app/
 
+![title](title-hsh.jpg)
