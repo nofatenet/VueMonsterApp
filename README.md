@@ -1,7 +1,8 @@
 # Hellspawn Hunter
 
-Fight Hellspawns... in this Vue Monster App
+Fight Hellspawns... in this Monster App... Just like in RL.
+Made with VueJS/NodeJS.
 
-https://vue-hellspawn-app.netlify.app/
+https://hsh22022022hsh.netlify.app/
 
 ![title](title-hsh.jpg)
