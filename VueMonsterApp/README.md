@@ -1,6 +1,11 @@
-# Vue Monster App
+# Hellspawn Hunter - Vue Monster App
 
-this is just a test!
+really messy repo!
+first ideas in 2020. finished in 2022.
+
+How to start:
+
+- run node server.
 
 ------
 
